@@ -1,15 +1,15 @@
 Developing Data Products
 ------------------------
 
-Author : Ashwini raj
+Author : Ashwini Raj      
 Date   : 08/20/2014
 
 Files Submitted
 ---------------
 
-ui.R
-server.R
-README.md
+ui.R       
+server.R       
+README.md        
 
 Instructions
 -------------
